@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ödev 2</title>
+    </head>
+    <body>
+        <h1>İlayda KAPTANOĞLU</h1>
+        <h2>Hakkımda</h2>
+        <p>Merhaba, ben İlayda fantastik ve bilimkurgu okumayı ve de izlemeyi çok severim bir Harry Potter hayranıyım.</p>
+        <h3>İlgi Alanlarım</h3>
+        <h4>1.Film</h4>
+        <ul>
+            <li><a href="https://www.imdb.com/list/ls072049366/">Harry Potter</a></li>
+            <li>Yüzüklerin Efendisi</li>
+            <li>Avatar</li>
+            <li>Wall-E</li>
+        </ul>
+        <h4>2.Dizi</h4>
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt14452776/">The Bear</a></li>
+            <li>Brooklyn Nine-Nine</li>
+            <li>Miracle Workers</li>
+            <li>Futurama</li>
+        </ul>
+        <h4>3.Kitap</h4>
+        <ul>
+            <li><a href="https://www.goodreads.com/lv/book/show/35128191-su-adam">Su Adamı</a></li>
+            <li>Fahrenheit 451</li>
+            <li>Küçük Prens</li>
+            <li>Melekler Ve Şeytanlar</li>
+        </ul>
+        <h2>Sevdiğim Filmler</h2>
+        <h3>Harry Potter</h3>
+        <img src="../patika/img/harry potter.jpeg" width="450" height="400">
+        <p>Harry Potter'ın ailesi ağır ve şaibeli bir trafik kazasında ölmüştür. Öksüz ve yetim kalan Harry'nin sığınabileceği tek yer, arasının pek de iyi olmadığı teyzesinin yanıdır. Harry, tüm hayatı boyunca idari ailesi tarafından kötü davranışlarla büyütülür. Ancak Harry Potter artık 11 yaşındadır ve Harry'nin hayalleri ve yetenekleri günden güne su yüzüne çıkmaktadır. Kısa süre sonra Hogwarts büyücülük okuluna davet edilir. Artık tek amacı, ailesinin bu şüpheli kazasını araştırmak ve muhattaplarını cezalandırmaktır.</p>
+    </body>
+</html>
